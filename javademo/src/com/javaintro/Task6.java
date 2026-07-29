@@ -25,6 +25,7 @@ public class Task6 {
 
 	    // Method to display student details
 	    void displayTask6() {
+	    	System.out.println("---------------------  Student details started  -------------------------");
 	        System.out.println("College Name   : " + collegeName);
 	        System.out.println("Student ID     : " + studentId);
 	        System.out.println("Student Name   : " + studentName);
@@ -58,6 +59,7 @@ public class Task6 {
 
 	        s2.calculateTotal();
 	        s2.calculatePercentage();
+	        s1.calculateTotal();
 
 	        // Display Details
 	        s1.displayTask6();
