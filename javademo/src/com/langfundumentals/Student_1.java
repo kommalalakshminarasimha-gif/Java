@@ -3,6 +3,8 @@ package com.langfundumentals;
 public class Student_1 {
 	int student_Id;
 	String student_Name;
+	double fee$;
+	int _age;
 	
 	void studentInfo() {
 		System.out.println("Student info method");
