@@ -1,3 +1,4 @@
+ package com.javaintro;
 
 
 public class Task10 {
