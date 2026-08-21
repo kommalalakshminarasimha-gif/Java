@@ -27,6 +27,7 @@ public class Task18 {
 		 System.out.println("Qantity :"+quantity);
 		 System.out.println("FinalAmount :" + finalAmount);
 		 System.out.println("-----------------------------");
+		 System.out.println("++++++++++++++++++++++++++++++");
 	 }
 	
 
