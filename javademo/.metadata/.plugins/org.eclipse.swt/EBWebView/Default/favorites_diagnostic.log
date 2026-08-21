@@ -25,3 +25,23 @@
 2026-07-30 09:12:39.717: [INFO] OnDoneLoading sync enabled: 0
 2026-07-30 09:21:10.226: [INFO] OnDoneLoading sync enabled: 0
 2026-07-30 09:22:55.222: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 06:13:09.675: [INFO] CurrentProfilePath: C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:13:09.675: [INFO] Profiles total count: 1
+2026-08-20 06:13:09.676: [INFO] Profile: name=Profile 1 path=C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T06:08:40.904Z
+2026-08-20 06:13:09.676: [INFO] LastUsedProfileDir: C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:13:09.676: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T06:08:40.904Z
+2026-08-20 06:13:09.676: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 06:13:09.676: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 06:13:09.676: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 06:13:09.676: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 06:20:59.310: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 06:27:50.197: [INFO] CurrentProfilePath: C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:27:50.197: [INFO] Profiles total count: 1
+2026-08-20 06:27:50.197: [INFO] Profile: name=Profile 1 path=C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T06:26:24.665Z
+2026-08-20 06:27:50.197: [INFO] LastUsedProfileDir: C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 06:27:50.198: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\KL NARSIMHA\git\Javakln\javademo\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T06:26:24.665Z
+2026-08-20 06:27:50.198: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 06:27:50.198: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 06:27:50.198: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 06:27:50.198: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 06:29:14.657: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
