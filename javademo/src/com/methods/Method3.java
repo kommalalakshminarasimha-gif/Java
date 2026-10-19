@@ -14,5 +14,5 @@ class Method3 {
     	int Result = a.Method();
     	
     	System.out.println(Result);
-            }
+     }
 }

@@ -30,6 +30,8 @@ class Task30 {
             System.out.println(original + " is a Strong Number");
         } else {
             System.out.println(original + " is not a Strong Number");
+            
+            // 
         }
     }
 }
